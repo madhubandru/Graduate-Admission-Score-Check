@@ -1,6 +1,6 @@
 # graduateadmissionscorecheck
 
-### Subject: INFO624-003-Informationretrievalsystem
+### Subject: INFOT780-002-Applieed Machine Learning
 
 This project repository include below files/folders.
 
