@@ -1,4 +1,4 @@
-# graduateadmissionscorecheck
+# graduate admission score check
 
 ### Subject: INFOT780-002-Applieed Machine Learning
 
